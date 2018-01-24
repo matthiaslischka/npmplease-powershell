@@ -4,3 +4,6 @@
 
 
 Stores the function `npmplease` in current user profile so it will be available in all future powershell sessions. Checks to not add it twice.
+
+
+Inspired by http://npmplease.com (for linux)
